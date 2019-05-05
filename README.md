@@ -4,7 +4,7 @@
 Global toast is a blog that my wife and I make to document our travels for a bit of fun as in the example video below. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0ZCax0n9ng0t
-" target="_blank"><img src="./img.jpg" alt="Torres Del Paine Video" width="240" height="180" border="10" /></a>
+" target="_blank">Click here or the image to check out one of our blogs! <img src="./img.jpg" alt="Torres Del Paine Video" width="240" height="180" border="10" /></a>
 
 ## Moodboard
 
